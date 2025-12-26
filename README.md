@@ -49,9 +49,9 @@ A breathtaking single-page interactive Solar System visualization featuring all 
 ## 💻 Technical Highlights
 
 
-- **88K CSS file** packed with complex selectors and animations [file:52]
-- **3D Layering**: Planets positioned at Z-depths from 0 to -18,400px [file:52]
-- **Trajectory Paths**: `border: 2px dashed white; border-radius: 3400px` [file:52]
+- **88K CSS file** packed with complex selectors and animations 
+- **3D Layering**: Planets positioned at Z-depths from 0 to -18,400px 
+- **Trajectory Paths**: `border: 2px dashed white; border-radius: 3400px`
 
 ---
 
